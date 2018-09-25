@@ -1,0 +1,8 @@
+C:\Users\ahayes036\Documents\.Net Practice\CarDealership\CarDealership.Model\bin\Debug\netcoreapp2.1\CarDealership.Model.deps.json
+C:\Users\ahayes036\Documents\.Net Practice\CarDealership\CarDealership.Model\bin\Debug\netcoreapp2.1\CarDealership.Model.dll
+C:\Users\ahayes036\Documents\.Net Practice\CarDealership\CarDealership.Model\bin\Debug\netcoreapp2.1\CarDealership.Model.pdb
+C:\Users\ahayes036\Documents\.Net Practice\CarDealership\CarDealership.Model\obj\Debug\netcoreapp2.1\CarDealership.Model.csproj.CoreCompileInputs.cache
+C:\Users\ahayes036\Documents\.Net Practice\CarDealership\CarDealership.Model\obj\Debug\netcoreapp2.1\CarDealership.Model.AssemblyInfoInputs.cache
+C:\Users\ahayes036\Documents\.Net Practice\CarDealership\CarDealership.Model\obj\Debug\netcoreapp2.1\CarDealership.Model.AssemblyInfo.cs
+C:\Users\ahayes036\Documents\.Net Practice\CarDealership\CarDealership.Model\obj\Debug\netcoreapp2.1\CarDealership.Model.dll
+C:\Users\ahayes036\Documents\.Net Practice\CarDealership\CarDealership.Model\obj\Debug\netcoreapp2.1\CarDealership.Model.pdb

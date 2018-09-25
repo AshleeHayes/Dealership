@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+@model CarDealership.Models.IndexViewModel      
+
+<h2>Index</h2>
+
+<h3>@Model.Car.Year @Model.Car.Make @Model.Car.Model</h3>
+<p>MPG: @Model.Car.MPG</p>
+<p>Car Type: @Model.Car.Type.ToString()</p>
+
